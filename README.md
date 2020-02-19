@@ -19,5 +19,8 @@
 
 * Other - HTML5 / Javascript / CSS3 / jQuery / Java(1.8.0)
 
-### SNS로그인, 결제는 자신의 APP KEY를 사용하시면 됩니다.
+
+SNS로그인, 결제는 자신의 APP KEY를 사용하시면 됩니다.
+
+
 
