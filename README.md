@@ -11,10 +11,11 @@
 3. 관리자 상품 등록 - 포인트샵에 보여지는 상품 관리(등록, 삭제)
 
 ### 사용 언어, 툴, ETC
-IDE - eclipse
+* IDE - eclipse
 
-DB - Oracle (using Oracle 11g with Sql Developer)
+* DB - Oracle (using Oracle 11g with Sql Developer)
 
-Server - Apache Tomcat 8.5
+* Server - Apache Tomcat 8.5
 
-Other - HTML5 / Javascript / CSS3 / jQuery / Java(1.8.0)
+* Other - HTML5 / Javascript / CSS3 / jQuery / Java(1.8.0)
+
